@@ -1,0 +1,63 @@
+#googz_image {
+    padding-top: 109px;
+}
+
+#googz_area {
+    text-align: center;
+}
+
+#search {
+    text-align: center;
+}
+
+#clicking {
+    text-align: center;
+    display: block;
+    padding-top: 18px;
+}
+
+#clicking input {
+    border-width: 1px;
+    border-color: rgb(242, 242, 242);
+    font-family: 'arial', 'sans-serif';
+    border-style: solid
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    margin: 0;
+    text-decoration: none; 
+    color: black;
+    opacity: 0.75;
+    padding-left: 15px;
+    font-size: 13px;
+}
+
+li a:hover {
+    text-decoration: underline; 
+}
+
+.float-right {
+    float: right;
+}
+
+.footer {
+    display: block;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding-bottom: 18px;
+}
+
+.float-right.pad-right {
+    padding-right: 15px;
+}
